@@ -1,6 +1,6 @@
 # hello-world
 
-Repository di prova per testare GitHub, il GitHub Flow e l'impostazione di README.md
+Repository di prova per testare GitHub,l'impostazione di README.md e prendere dimestichezza con il GitHub Flow(Branches, Pull Request e Merge).
 
 ## Getting Started
 
