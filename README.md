@@ -1,7 +1,7 @@
 # hello-world
 
 Repository di prova per testare GitHub,l'impostazione di README.md e prendere dimestichezza con il GitHub Flow(Branches, Pull Request e Merge).
-Prova di git bash( init, clone, pull, push, checkout ).
+Prova di git bash( init, clone, pull, push, checkout , branch, merge, config username/email ).
 
 ## Getting Started
 
